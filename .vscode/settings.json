@@ -3,5 +3,6 @@
     "eslint.codeActionsOnSave.rules": [
         "true"
     ],
-    "eslint.format.enable": true
+    "eslint.format.enable": true,
+    "workbench.iconTheme": "material-icon-theme"
 }
